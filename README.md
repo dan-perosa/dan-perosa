@@ -27,7 +27,7 @@ I'm a passionate full-stack developer who has successfully transitioned into the
 
 * **RPG Character Creator (React.js):** Developed a web app for creating custom RPG characters using React.js ([Link to project on GitHub](https://github.com/dan-perosa/CS50-Final-project))
 * **DnDdle Game (Next.js):** Built a Wordle-inspired game focused on Dungeons & Dragons lore using D&D API ([Link to project](https://dan-perosa.github.io/dnddle/))
-* **OldSchool Runescape Wordle (Next.js & Flask):** Created a Wordle-inspired game with scraped data from the OldSchool Runescape wiki ([Link to project](https://dan-perosa.github.io/osrsdle/))
+* **OldSchool Runescape Wordle (Next.js & Flask):** Created a Wordle-inspired game with scraped data from the OldSchool Runescape wiki ([Link to project on GitHub](https://dan-perosa.github.io/osrsdle/))
 * **Python Automation Scripts:** Automated various tasks using Python scripts.
 
 **Contact:**
