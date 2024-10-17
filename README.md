@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dan-perosa/dan-perosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,14 @@ Here are some ideas to get you started:
 -->
 ## Full-Stack Developer
 
-I'm a passionate full-stack developer with a background in Mechanical Engineering who has successfully transitioned into the tech industry. I leverage my diverse skillset to build innovative web applications.
+I'm a passionate full-stack developer who has successfully transitioned into the tech industry. I leverage my diverse skillset to build innovative/interactive web applications and automations/data analysis with Python.
 
 **Key Skills:**
 
-* **Frontend:** React, Next.js, HTML, CSS, TypeScript
-* **Backend:** Python (FastAPI, Django), Node.js
-* **Databases:** PostgreSQL, SQL
-* **DevOps:** Git, Docker
+* **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind
+* **Backend:** Python (FastAPI, Django, Flask), Node.js
+* **Databases:** PostgreSQL, SQlite
+* **Others:** Git, Docker, n8n
 
 **Projects:**
 
