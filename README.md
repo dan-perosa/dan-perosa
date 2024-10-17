@@ -33,7 +33,7 @@ I'm a passionate full-stack developer who has successfully transitioned into the
 **Contact:**
 
 * **Email:** dane.gcp@gmail.com
-* **LinkedIn:** [in.com/in/daniel-perosa/](https://www.linkedin.com/in/daniel-perosa/)
+* **LinkedIn:** [in/daniel-perosa/](https://www.linkedin.com/in/daniel-perosa/)
 * **Phone:** +55 (49) 98848-3003
 
 **Feel free to reach out to discuss potential opportunities!**
