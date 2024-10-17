@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Full-Stack Developer
+
+I'm a passionate full-stack developer with a background in Mechanical Engineering who has successfully transitioned into the tech industry. I leverage my diverse skillset to build innovative web applications.
+
+**Key Skills:**
+
+* **Frontend:** React, Next.js, HTML, CSS, TypeScript
+* **Backend:** Python (FastAPI, Django), Node.js
+* **Databases:** PostgreSQL, SQL
+* **DevOps:** Git, Docker
+
+**Projects:**
+
+* **RPG Character Creator (React.js):** Developed a web app for creating custom RPG characters using React.js ([Link to project on GitHub](https://github.com/dan-perosa/CS50-Final-project))
+* **DnDdle Game (Next.js):** Built a Wordle-inspired game focused on Dungeons & Dragons lore using D&D API ([Link to project](https://dan-perosa.github.io/dnddle/))
+* **OldSchool Runescape Wordle (Next.js & Flask):** Created a Wordle-inspired game with scraped data from the OldSchool Runescape wiki ([Link to project](https://dan-perosa.github.io/osrsdle/))
+* **Python Automation Scripts:** Automated various tasks using Python scripts.
+
+**Contact:**
+
+* **Email:** dane.gcp@gmail.com
+* **LinkedIn:** [https://www.instagram.com/d_perosa/?hl=en](https://www.instagram.com/d_perosa/?hl=en)
+* **Phone:** +55 (49) 98848-3003
+
+**Feel free to reach out to discuss potential opportunities!**
+
+**Additional Information:**
+
+* **Location:** Chapecó/SC, Brazil
+
